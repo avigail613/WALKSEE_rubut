@@ -4,12 +4,35 @@
 An advanced Embedded and IoT assistive technology system designed to empower visually impaired individuals with safe, independent, and intuitive urban navigation.
 
 
-<video src="[הקישור_שקיבלת_מגיטהאב.mp4](https://github.com/user-attachments/assets/41c29b95-db25-4811-9bc1-66971131334d
-)" autoplay loop muted playsinline width="100%"></video>
 
-[סרטון המלא זמין כאן 🎬](הקישור_לסרטון_המלא)
+![אנימציה רצה](הקישור_שגיטהאב_יצר_עבור_ה_GIF_שלך.gif)
 
+---
+### 🔗 קישורים לצפייה בסרטונים המלאים:
+* [לצפייה בסרטון המלא ביוטיוב](הקישור_לסרטון_הראשון)
+* [לצפייה בסרטון המלא בדרייב](הקישור_לסרטון_השני)
 
+![אנימציה רצה](https://github.com/user-attachments/assets/0d441968-f1f3-4fd1-8fdc-7ad938eb3683.gif)
+<video
+    autoplay
+    muted
+    loop
+    playsinline
+    disablepictureinpicture
+    controlslist="nodownload noplaybackrate nofullscreen"
+    style="
+        position: fixed;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        pointer-events: none;
+        z-index: -1;
+    ">
+    <source src="background.webm" type="video/webm">
+</video>
+
+[סרטו הסבר קצר (online-video-cuttercom) (video-converter.com).webm](https://github.com/user-attachments/assets/1fac63c2-a637-4055-b917-6690baa1556e)
 
 
 ---
