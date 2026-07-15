@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/60c31843-3dc5-4342-938c-27edb5f578f7
 # WALKSEE_rubut
 # 🦯 WalkSee – Autonomous Navigation & Obstacle Avoidance Cane
 
