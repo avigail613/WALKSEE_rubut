@@ -6,7 +6,6 @@ An advanced Embedded and IoT assistive technology system designed to empower vis
 
 
 ![אנימציה רצה](https://github.com/user-attachments/assets/0d441968-f1f3-4fd1-8fdc-7ad938eb3683.gif)
-[צפה בסרטון הדגמה מלא▶️](https://drive.google.com/file/d/1oJOh2oEkLcxeJAw4Td4r5sR430iCjHE8/view?usp=sharing)
 <video
     autoplay
     muted
@@ -27,6 +26,7 @@ An advanced Embedded and IoT assistive technology system designed to empower vis
 </video>
 
 [סרטו הסבר קצר (online-video-cuttercom) (video-converter.com).webm](https://github.com/user-attachments/assets/1fac63c2-a637-4055-b917-6690baa1556e)
+[צפה בסרטון הדגמה מלא▶️](https://drive.google.com/file/d/1oJOh2oEkLcxeJAw4Td4r5sR430iCjHE8/view?usp=sharing)
 
 
 ---
