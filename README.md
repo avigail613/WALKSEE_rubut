@@ -1,18 +1,12 @@
 # WALKSEE_rubut
 # 🦯 WalkSee – Autonomous Navigation & Obstacle Avoidance Cane
 
-An advanced Embedded and IoT assistive technology system designed to empower visually impaired individuals with safe, independent, and intuitive urban navigation.
+An advanced Embedded and IoT assistive technology system designed to empower visually impaired individuals with safe, independent, and intuitive u0rban navigation.
 
 
-
-![אנימציה רצה](הקישור_שגיטהאב_יצר_עבור_ה_GIF_שלך.gif)
-
----
-### 🔗 קישורים לצפייה בסרטונים המלאים:
-* [לצפייה בסרטון המלא ביוטיוב](הקישור_לסרטון_הראשון)
-* [לצפייה בסרטון המלא בדרייב](הקישור_לסרטון_השני)
 
 ![אנימציה רצה](https://github.com/user-attachments/assets/0d441968-f1f3-4fd1-8fdc-7ad938eb3683.gif)
+[צפה בסרטון הדגמה מלא▶️](https://drive.google.com/file/d/1oJOh2oEkLcxeJAw4Td4r5sR430iCjHE8/view?usp=sharing)
 <video
     autoplay
     muted
